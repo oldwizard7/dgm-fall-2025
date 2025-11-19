@@ -195,6 +195,7 @@
     - Bi. et al, <a href="https://arxiv.org/abs/2401.02954">DeepSeek LLM Scaling Open-Source Language Models with Longtermism</a>
     - Liu et al., <a href="https://arxiv.org/abs/2405.04434">DeepSeekV2 A Strong, Economical, and Efficient Mixture-of-Experts Language Model</a>
     - Liu et al., <a href="https://arxiv.org/abs/2412.19437">DeepSeekV3 Technical Report</a>
+  slides: "/dgm-fall-2025/assets/lectures/Lecture_22_pretraining.pdf"
 
 - date: 11/24
   lecturer: Prof. Lengerich
